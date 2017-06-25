@@ -1,5 +1,5 @@
 """
-Topooly for EL9333 Lab 5
+Topooly for practice2
 
     S1    S2
  (1)| \(2)/|(1)
